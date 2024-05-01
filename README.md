@@ -1,1 +1,1 @@
-# COMP-562-Final-Project
+# COMP 562: Machine Learning Final Project
