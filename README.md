@@ -4,7 +4,7 @@
 This repository contains the following materials for our machine learning final project:
 - Jupyter notebook with all of our code used to generate the models and figures presented in our research paper.
 - PDF document of our final paper, written using LaTeX.
-- Four figures references in our paper (graphs of stock prediction for NVIDIA and Boeing using LSTM and SVR models).
+- Four figures that are referenced in our paper (graphs of stock prediction for NVIDIA and Boeing using LSTM and SVR models).
 
 The dataset, sourced from Kaggle, is publically available for download at this link: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.csv.
 
